@@ -8,6 +8,6 @@ This creates an intense map where you constantly need to be on the move in order
 - Play on peaceful
 - Set gamemode to survival
 # Download
-Download .McWorld: http://ow.ly/BX6K306wekl
-Download .ZIP: https://www.dropbox.com/s/u8o4si6kd3umzis/Black%20TNT%20RUN%202.zip?dl=0
+- Download .McWorld: http://ow.ly/BX6K306wekl
+- Download .ZIP: https://www.dropbox.com/s/u8o4si6kd3umzis/Black%20TNT%20RUN%202.zip?dl=0
 You really enjoy this map?  Check out the first map in the series: https://github.com/BlackZeroPM/BlackMaps/tree/master/Black%20TNT%20Run
