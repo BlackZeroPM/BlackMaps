@@ -8,4 +8,4 @@ After completing a level you should take the gold ingot and bring it to the “e
 - Play in survival mode
 # Download
 - Download Map .McWorld: http://ow.ly/zd3E306bSew
-- Download Map as .ZIP file: http://ow.ly/zd3E306bSew
+- Download Map as .ZIP file: https://www.dropbox.com/s/xwibtuo998v9f08/Black%20TNT%20RUN.rar?dl=0
